@@ -1,0 +1,32 @@
+# Data (heavy files — link to source in README instead)
+data/raw/*.gz
+data/raw/*.geojson
+data/processed/*.csv
+data/processed/*.parquet
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI (optional — keep .pbix if small)
+# powerbi/*.pbix
+
+# Misc
+*.log
+.env
