@@ -1,0 +1,5 @@
+neighbourhood_cleansed,listings,median_price,mean_price,median_rating,pct_commercial,median_dist_center
+Dn Laoghaire-Rathdown,622,137.0,198.0,4.9350000000000005,14.8,9.928104470865986
+Dublin City,3501,150.0,215.0,4.82,33.3,1.8816216385820959
+Fingal,695,108.0,202.0,4.9,13.2,12.08179271369193
+South Dublin,426,92.0,131.0,4.88,14.3,10.921612125035399

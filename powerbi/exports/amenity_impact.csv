@@ -1,0 +1,9 @@
+amenity,with_amenity_median,without_median,price_lift
+kitchen,155.0,90.0,65.0
+washer,158.0,98.0,60.0
+pets_allowed,178.0,135.0,43.0
+wifi,138.0,109.0,29.0
+workspace,144.0,132.0,12.0
+aircon,130.0,137.0,-7.0
+free_parking,129.0,146.0,-18.0
+pool,116.0,137.0,-21.0
