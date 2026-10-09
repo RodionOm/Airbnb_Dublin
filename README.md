@@ -24,7 +24,7 @@
 |---|---|---|---|---|
 | Ridge baseline | 178.47 | 64.70 | 0.655 | linear, encoded |
 | RandomForest | 158.12 | 57.67 | 0.725 | non-linear |
-| **XGBoost** | **140.72** | **52.03** | **0.775** | tuned, log target; CV RMSE(log) 0.327 ± 0.031 |
+| **XGBoost** | **140.72** | **52.03** | **0.775** | log target; CV RMSE(log) 0.327 ± 0.031 |
 
 **Top price drivers (SHAP):** `accommodates`, `bedrooms`, `room_type`, `dist_city_center_km`, `bathrooms`.
 
